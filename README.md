@@ -1,4 +1,4 @@
-# ml_final
+# ML-Financial-Predictor
 
 This project aims to predict tech Company's revenues, as well as other financial information by comparing their them to other, similar tech companies.
 
